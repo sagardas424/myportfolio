@@ -62,11 +62,18 @@ export default function Home() {
                 <h4>Gauhati University, Guwahati, India</h4>
                 <h6>September 2020 - Present</h6>
                 <p>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Quaerat qui sed minus odio, voluptatibus tenetur quidem eius
-                  dignissimos facere Lorem ipsum dolor sit, amet consectetur
-                  adipisicing elit. Qui quas maiores ut molestiae voluptate
-                  quidem nostrum vitae totam cum nihil.
+                   During my apprenticeship, I gained a comprehensive
+                  understanding of various web development technologies and
+                  tools. I learned JavaScript and honed my skills in building
+                  dynamic user interfaces using React.js. I also delved into
+                  backend development with Express.js and MongoDB, gaining
+                  expertise in creating robust server-side applications.
+                  Additionally, I explored third-party libraries such as JSON
+                  Web Token for secure authentication, Multer for handling file
+                  uploads, Cloudinary for image management, and Axios for making
+                  HTTP requests. This experience has equipped me with a
+                  versatile skill set, enabling me to develop full-stack
+                  applications efficiently and effectively.
                 </p>
               </div>
             </div>
@@ -106,20 +113,7 @@ export default function Home() {
                 <h3>Apprenticeship in Full Stack Development</h3>
                 <h4>AcesofTech Academy, Kolkata,India</h4>
                 <h6>April 2024 - Present</h6>
-                <p>
-                   During my apprenticeship, I gained a comprehensive
-                  understanding of various web development technologies and
-                  tools. I learned JavaScript and honed my skills in building
-                  dynamic user interfaces using React.js. I also delved into
-                  backend development with Express.js and MongoDB, gaining
-                  expertise in creating robust server-side applications.
-                  Additionally, I explored third-party libraries such as JSON
-                  Web Token for secure authentication, Multer for handling file
-                  uploads, Cloudinary for image management, and Axios for making
-                  HTTP requests. This experience has equipped me with a
-                  versatile skill set, enabling me to develop full-stack
-                  applications efficiently and effectively.
-                </p>
+                
               </div>
             </div>
           </div>
