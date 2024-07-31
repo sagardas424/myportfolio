@@ -107,7 +107,18 @@ export default function Home() {
                 <h4>AcesofTech Academy, Kolkata,India</h4>
                 <h6>April 2024 - Present</h6>
                 <p>
-                  
+                   During my apprenticeship, I gained a comprehensive
+                  understanding of various web development technologies and
+                  tools. I learned JavaScript and honed my skills in building
+                  dynamic user interfaces using React.js. I also delved into
+                  backend development with Express.js and MongoDB, gaining
+                  expertise in creating robust server-side applications.
+                  Additionally, I explored third-party libraries such as JSON
+                  Web Token for secure authentication, Multer for handling file
+                  uploads, Cloudinary for image management, and Axios for making
+                  HTTP requests. This experience has equipped me with a
+                  versatile skill set, enabling me to develop full-stack
+                  applications efficiently and effectively.
                 </p>
               </div>
             </div>
