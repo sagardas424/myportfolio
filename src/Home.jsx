@@ -58,9 +58,9 @@ export default function Home() {
             <div className="education">
               <h1>Education</h1>
               <div className="bca-container">
-                <h3>Bachelor of Computer Application</h3>
-                <h4>Gauhati University, Guwahati, India</h4>
-                <h6>September 2020 - Present</h6>
+                <h3>Apprenticeship in Full Stack Development</h3>
+                <h4>AcesofTech Academy, Kolkata,India</h4>
+                <h6>April 2020 - Present</h6>
                 <p>
                    During my apprenticeship, I gained a comprehensive
                   understanding of various web development technologies and
@@ -110,9 +110,9 @@ export default function Home() {
             <div className="experience">
               <h1>Experience</h1>
               <div className="exp-container">
-                <h3>Apprenticeship in Full Stack Development</h3>
-                <h4>AcesofTech Academy, Kolkata,India</h4>
-                <h6>April 2024 - Present</h6>
+                <h3>Bachelors in Computer Application</h3>
+                <h4>Gauhati University, Guwahati,India</h4>
+                <h6>September 2020 - Present</h6>
                 
               </div>
             </div>
