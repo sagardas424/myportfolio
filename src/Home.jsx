@@ -56,7 +56,7 @@ export default function Home() {
           </div>
           <div className="content-part2">
             <div className="education">
-              <h1>Education</h1>
+              <h1>Experience</h1>
               <div className="bca-container">
                 <h3>Apprenticeship in Full Stack Development</h3>
                 <h4>AcesofTech Academy, Kolkata,India</h4>
@@ -108,7 +108,7 @@ export default function Home() {
           </a>
             </div>
             <div className="experience">
-              <h1>Experience</h1>
+              <h1>Education</h1>
               <div className="exp-container">
                 <h3>Bachelors in Computer Application</h3>
                 <h4>Gauhati University, Guwahati,India</h4>
